@@ -4,14 +4,6 @@
 ![Bash CI](https://github.com/ChrisTitusTech/Top-5-Bootloader-Themes/workflows/bash_unit%20CI/badge.svg)
 ![Shellcheck CI](https://github.com/ChrisTitusTech/Top-5-Bootloader-Themes/workflows/Shellcheck%20CI/badge.svg)
 
-ChrisTitusTech Top 5 Bootloader Themes
-======================================
-
-Install Bootloader Themes with ease.
-
-- Chris Titus Tech Channel : [https://www.youtube.com/@christitustech](https://www.youtube.com/@christitustech)
-- Chris Titus Tech YouTube Video : [Bootloader Themes | Install & Configuration](https://www.youtube.com/watch?v=BAyzHP1Cqb0)
-- Full Walkthrough : [https://christitus.com/bootloader-themes](https://christitus.com/bootloader-themes)
 
 🚀 Installation
 ---------------
@@ -19,7 +11,7 @@ Install Bootloader Themes with ease.
 Simply enter following commands in your terminal :
 
 ```bash
-$ git clone https://github.com/ChrisTitusTech/Top-5-Bootloader-Themes
+$ git clone https://github.com/Rad1antC0d3/Bootloader-Themes
 $ cd Top-5-Bootloader-Themes
 $ sudo ./install.sh
 ```
@@ -68,7 +60,6 @@ $ git config --global core.editor 'vim'
 🤝 Contributing
 ---------------
 
-Thank you for your interest in contributing to **ChrisTitusTech Top 5 Bootloader Themes**.
 
 Please review the [code of conduct](./CODE_OF_CONDUCT.md) and [contribution guidelines](./CONTRIBUTING.md) before starting to work on any features.
 
